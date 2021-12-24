@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @leapingfox
-- 👀 I’m interested in ... | coding, wind surfing, startups.
+- 👀 I’m interested in ... | coding, ntfs, wind surfing, startups.
 - 🌱 I’m currently learning ... | .sol
 - 📫 How to reach me ...
 
